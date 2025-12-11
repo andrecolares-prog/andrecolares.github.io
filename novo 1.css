@@ -1,0 +1,99 @@
+
+
+                                   body
+{
+   /* mudar a cordo e a  tonalidade do site esse comando */ background-color:#fffff
+}
+                                   h1,h2,h3,h4,h5
+								   
+{
+	font-family: Sylfaen, Arial; /* Mudar a fonte do texto e caso o usuario não tenha a fonte selecionada coloque uma 2° opição ex: Arial.*/ 
+	
+	font-size:20px; /* Mudar o tamanho da fonte do texto.*/
+
+         text-align:center;
+		  max-width: 100%;        /* mantém responsivo */
+}	
+
+
+                                    h6
+{
+	font-family: Sylfaen, Arial; /* Mudar a fonte do texto e caso o usuario não tenha a fonte selecionada coloque uma 2° opição ex: Arial.*/ 
+	
+	font-size:20px; /* Mudar o tamanho da fonte do texto.*/
+	
+}
+                                    p
+									
+									
+{
+	font-size:20px; /* Mudar o tamanho da fonte do texto.*/
+	 text-align:center;
+	  max-width: 100%;        /* mantém responsivo */
+}
+
+
+                                   section
+{
+	 background-color:#ffffff;
+	font-family: Sylfaen, Arial;
+	 padding:1px;
+}
+
+                                  footer
+{
+	 background-color:#E5F3FF;
+	font-family: Sylfaen, Arial;
+	 padding:10px;
+	 color:#000000;
+	 
+	 font-size: 16PX;
+	 text-align:center;
+	  max-width: 100%;        /* mantém responsivo */
+	 /*formatar qualquer coisa exenplo quero formatar o footer 
+	 
+	   footer
+
+	 background-color:#001300;
+	font-family: Sylfaen, Arial;
+	 padding:10px;
+	 color:#983b0c;
+	 font-size: 16PX;
+	 text-align:center;{center;
+	 
+e muda a cor a fonte o tamanha da fonte e centralizar.*/
+	 }
+	 
+                                              Img 
+{
+	/* Centralizar imagens ou vídeos */
+
+    margin: 0 auto;      /* centraliza */
+   max-width: 100%;        /* mantém responsivo */
+   align-content:center;           /* centraliza melhor   */
+   
+}
+
+                                           video
+{
+	
+	  display: block;      /* transforma em bloco */
+    margin: 0 auto;      /* centraliza */
+    max-width: 100%;     /* mantém responsivo */
+	
+}
+                                  li
+									
+									
+{
+	font-size:16px; /* Mudar o tamanho da fonte do texto.*/
+}
+ 
+                                    div
+
+ {
+	 
+	 margin: 0 auto;      /* centraliza */
+    max-width: 100%;     /* mantém responsivo */
+	 
+ }
